@@ -1,7 +1,7 @@
 {
-  "name": "react-base",
+  "name": "patitas-adoption",
   "version": "1.0.0",
-  "description": "Base Project for React JS",
+  "description": "Pet Adoption Site using Base Project for React JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erickleaopm/React-Base.git"
+    "url": "git+https://github.com/erickleaopm/patitas-adoption.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erickleaopm/React-Base/issues"
+    "url": "https://github.com/erickleaopm/patitas-adoption/issues"
   },
-  "homepage": "https://github.com/erickleaopm/React-Base#readme",
+  "homepage": "https://github.com/erickleaopm/patitas-adoption#readme",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"

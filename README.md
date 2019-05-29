@@ -1,2 +1,2 @@
-# React-Base
-Base Project for React JS
+# patitas-adoption
+Pet Adoption Site using Base Project for React JS
